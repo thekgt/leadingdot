@@ -103,7 +103,6 @@ source /usr/share/zsh-theme-powerlevel9k/powerlevel9k.zsh-theme
 
 # Aliases: 
 alias createvenv='virtualenv venv && source venv/bin/activate'
-export TERM=xterm-256color
 
 # Enable build Cache:
 export USE_CCACHE=1
