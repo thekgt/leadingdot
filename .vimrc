@@ -89,3 +89,10 @@ autocmd FileType javascript set formatprg=prettier\ --stdin
 
 " typescript
 Plugin 'leafgarland/typescript-vim'
+Plugin 'fatih/vim-go'
+
+" Jedi Vim Python Autocompletion
+Plugin 'davidhalter/jedi-vim'
+
+" Docker Plugin
+Plugin 'docker/docker'
